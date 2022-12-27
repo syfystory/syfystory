@@ -2,3 +2,12 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+node_modules
+.idea/
+.hugo_build.lock
+resources/
+themes/
+archetypes/
+layouts/
+static/
+themes/

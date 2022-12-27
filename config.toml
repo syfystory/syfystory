@@ -1,0 +1,75 @@
+baseurl = "/"
+languageCode = "fa-ir"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+  # "light" or "dark"
+  defaultTheme = "light"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # Enable to show reading time in minutes for posts
+  showReadingTime = true
+  Author = "اعظم کیماسی"
+
+
+[languages]
+  [languages.fa]
+    title = "سای‌فای استوری"
+    subtitle = "داستان‌های کوتاه سای فای، همون علمی تخیلیِ خودمون"
+    keywords = "sci-fi"
+    copyright = "تمامی حقوق محفوظ است."
+    menuMore = "ادامه..."
+    writtenBy = "نویسنده:"
+    readMore = "بقیه‌اش"
+    readOtherPosts = "خوندن داستان بعدی"
+    newerPosts = "داستان‌های جدیدتر"
+    olderPosts = "داستان‌های قدیمی‌تر"
+    minuteReadingTime = "دقیقه برای خوندن"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.fa.params.logo]
+      logoText = "سای‌فای استوری"
+#      path = "img/syfystoryLogo.png"
+#      alt = "سا‌فای استوری"
+      logoHomeLink = "/"
+
+    [languages.fa.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "درباره"
+        url = "/about"
+
+  [languages.en]
+    title = "سای‌فای استوری"
+    subtitle = "داستان‌های کوتاه سای فای، همون علمی تخیلیِ خودمون"
+    keywords = "sci-fi"
+    copyright = "تمامی حقوق محفوظ است."
+    menuMore = "ادامه..."
+    writtenBy = "نویسنده:"
+    readMore = "خَُب بعدش؟"
+    readOtherPosts = "خوندن داستان بعدی"
+    newerPosts = "داستان‌های جدیدتر"
+    olderPosts = "داستان‌های قدیمی‌تر"
+    minuteReadingTime = "دقیقه برای خوندن"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "سای‌فای استوری"
+#      path = "img/syfystoryLogo.png"
+#      alt = "سا‌فای استوری"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "درباره"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "stories"
+        name = "داستان‌ها"
+        url = "/stories"

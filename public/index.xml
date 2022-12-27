@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>سای‌فای استوری</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on سای‌فای استوری</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language>
+    <copyright>تمامی حقوق محفوظ است.</copyright>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>درباره سای‌فای استوری</title>
+      <link>/about/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          بالاخره باید از یه جایی شروع کرد: سا‌ی‌فای استوری( به فارسی داستان علمی-تخیلی و به انگلیسی sci-fi story) که ما بهش میگیم سای‌فای(syfy story) ساینس‌فیکشن (ساینس به معنی علمی و فیکشن به معنی تخیلی) نام دامنه رو به دلیل تشابه آوایی و رُند بودنش syfy.ir انتخاب کردیم.اینم بگم که اون طرف دریا همین اسم برای یک شبکه تلویزیونی هست که محتواش مربوط به برنامه‌‌های علمی-تخیلی میشه. داستان‌هارو همسرم با اقتباس از یکسری موضوعات علمی و کاملا اثبات شده می‌نویسه و سعی میکنه با توجه به اینکه مسئله علمی رو به زبان ساده و روان بیان کنه، کمی هم داستان رو با حالتی کاملا محاوره و قابل درک برای نوجوانان ارائه بده.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
